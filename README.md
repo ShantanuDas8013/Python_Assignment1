@@ -30,7 +30,7 @@
 ###5.(b) Square of even numbers in range(1-50).
 ![Screenshot 2024-07-28 152400](https://github.com/user-attachments/assets/d6e7d928-3561-4c38-885b-5861b9ef56df)
 
-###6.(a) and (b) Sum of digits.
+###6. Sum of digits and Reverse of the digits.
 ![Screenshot 2024-07-28 152438](https://github.com/user-attachments/assets/9fcffc20-2ec2-45f6-bbaf-df52212b2300)
 
 ###7. Area of a Triangle.
